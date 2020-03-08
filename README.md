@@ -1,5 +1,5 @@
-# Arduino-Android-USB
-Simple Android Application to interface an Arduino with an Android phone using an USB cable.
+# ArduinoUSB
+This is the second component of the program: the detection. This Android app reads the Arduino data, and if a significant increase is detected 15 times, then the program proceeds to the third and final component of the program.
 
-Made using felHR85's [UsbSerial Library](https://github.com/felHR85/UsbSerial)
+Made using felHR85's [UsbSerial Library](https://github.com/felHR85/UsbSerial) and hariharan-m's [ArduinoUSB](https://github.com/hariharan-m/Arduino-Android-USB)
 
